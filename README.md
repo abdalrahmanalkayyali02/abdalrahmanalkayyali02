@@ -42,15 +42,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdalrahmanalkayyali&show_icons=true&theme=react&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdalrahmanalkayyali&theme=react&hide_border=true" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/1305997296558669894)
